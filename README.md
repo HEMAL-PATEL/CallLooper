@@ -1,4 +1,4 @@
-# CallLooper
+# Call Looper
 
 You need to make a few calls of a certain length to a few numbers?
 Do you want to give a friend missed call one after the another?
