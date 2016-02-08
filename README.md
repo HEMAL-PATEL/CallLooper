@@ -11,7 +11,7 @@ Download
 
 <a href="https://play.google.com/store/apps/details?id=pl.pzienowicz.calllooper">
   <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+       src="http://www.redjumper.net/bookcreator/assets/graphics/play-store-download.png" />
 </a>
 
 Screenshots
