@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Call Looper</string>
+
+    <string name="auto_end_call">Auto end call after</string>
+    <string name="auto_redial">Call next number after</string>
+
+    <string name="seconds">%s seconds</string>
+    <string name="call">Call</string>
+    <string name="stop_calling">Stop calling</string>
+    <string name="start_calling">Start calling</string>
+
+    <string name="added_numbers">Added numbers</string>
+    <string name="manage">Manage</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    
+    <string name="speaker">Speaker</string>
+
+    <string name="max_numbers">You can define max 5 numbers:</string>
+
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+</resources>

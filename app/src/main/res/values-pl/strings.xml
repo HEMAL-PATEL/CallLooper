@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Call Looper</string>
+
+    <string name="auto_end_call">Zakończ połączenie po</string>
+    <string name="auto_redial">Wykonaj kolejne połączenie po</string>
+
+    <string name="seconds">%s sekundach</string>
+    <string name="call">Dzwoń</string>
+    <string name="stop_calling">Stop</string>
+    <string name="start_calling">Start</string>
+
+    <string name="added_numbers">Dodanych numerów</string>
+    <string name="manage">Zarządzaj</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    
+    <string name="speaker">Tryb głośnomówiący</string>
+
+    <string name="max_numbers">Możesz wpisać 5 numerów:</string>
+
+    <string name="enabled">Włączone</string>
+    <string name="disabled">Wyłączone</string>
+</resources>

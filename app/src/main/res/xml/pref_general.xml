@@ -1,0 +1,33 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="speakerEnabled"
+        android:title="@string/speaker" />
+
+    <EditTextPreference
+        android:defaultValue="10"
+        android:inputType="number"
+        android:key="endCallAfter"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/auto_end_call" />
+
+    <EditTextPreference
+        android:defaultValue="2"
+        android:inputType="number"
+        android:key="redialAfter"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/auto_redial" />
+
+    <pl.pzienowicz.calllooper.ButtonPreference
+        android:key="manageNumbers"
+        android:title="@string/added_numbers"
+        android:summary=""
+        android:widgetLayout="@layout/pref_call_button"/>
+
+</PreferenceScreen>
+
